@@ -1,1 +1,1 @@
-Created a notbook on Kaggle Kernel for my first Submission. In this notebook a CNN model classifies Dog and Cats with accuracy of 
+Created a notbook on Kaggle Kernel for my first Submission to the very famous Kaggle compition "Cats VS dogs". In this notebook a CNN model classifies Dog and Cats with accuracy of 0.89 on trained data and 0.98 on test data.
